@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/wehelp/static/js/main.64515545.js",
+    "main.css": "/wehelp/static/css/main.080ecd55.css",
+    "main.js": "/wehelp/static/js/main.12be3149.js",
     "index.html": "/wehelp/index.html",
-    "main.64515545.js.map": "/wehelp/static/js/main.64515545.js.map"
+    "main.080ecd55.css.map": "/wehelp/static/css/main.080ecd55.css.map",
+    "main.12be3149.js.map": "/wehelp/static/js/main.12be3149.js.map"
   },
   "entrypoints": [
-    "static/js/main.64515545.js"
+    "static/css/main.080ecd55.css",
+    "static/js/main.12be3149.js"
   ]
 }
