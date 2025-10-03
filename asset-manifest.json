@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/wehelp/static/js/main.e71c4b82.js",
+    "main.js": "/wehelp/static/js/main.4418b360.js",
     "index.html": "/wehelp/index.html",
-    "main.e71c4b82.js.map": "/wehelp/static/js/main.e71c4b82.js.map"
+    "main.4418b360.js.map": "/wehelp/static/js/main.4418b360.js.map"
   },
   "entrypoints": [
-    "static/js/main.e71c4b82.js"
+    "static/js/main.4418b360.js"
   ]
 }
