@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/GoGoGo526/wehelp/static/js/main.5d9de546.js",
-    "index.html": "/GoGoGo526/wehelp/index.html",
-    "main.5d9de546.js.map": "/GoGoGo526/wehelp/static/js/main.5d9de546.js.map"
+    "main.js": "/wehelp/static/js/main.a94e71b2.js",
+    "index.html": "/wehelp/index.html",
+    "main.a94e71b2.js.map": "/wehelp/static/js/main.a94e71b2.js.map"
   },
   "entrypoints": [
-    "static/js/main.5d9de546.js"
+    "static/js/main.a94e71b2.js"
   ]
 }
