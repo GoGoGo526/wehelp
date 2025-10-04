@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/wehelp/static/css/main.080ecd55.css",
-    "main.js": "/wehelp/static/js/main.12be3149.js",
+    "main.css": "/wehelp/static/css/main.926696da.css",
+    "main.js": "/wehelp/static/js/main.b8b43798.js",
+    "static/media/keybr.png": "/wehelp/static/media/keybr.c2ff9e968ee33bfadf89.png",
+    "static/media/toamto.png": "/wehelp/static/media/toamto.086333a1fae722621b72.png",
     "index.html": "/wehelp/index.html",
-    "main.080ecd55.css.map": "/wehelp/static/css/main.080ecd55.css.map",
-    "main.12be3149.js.map": "/wehelp/static/js/main.12be3149.js.map"
+    "main.926696da.css.map": "/wehelp/static/css/main.926696da.css.map",
+    "main.b8b43798.js.map": "/wehelp/static/js/main.b8b43798.js.map"
   },
   "entrypoints": [
-    "static/css/main.080ecd55.css",
-    "static/js/main.12be3149.js"
+    "static/css/main.926696da.css",
+    "static/js/main.b8b43798.js"
   ]
 }
